@@ -3,6 +3,7 @@
     "eslint:recommended",
     "plugin:react/recommended",
     "plugin:jsx-a11y/recommended",
+    "plugin:storybook/recommended",
     "plugin:@typescript-eslint/recommended",
     "plugin:import/typescript",
     "plugin:react/jsx-runtime",
@@ -53,6 +54,7 @@
   "env": {
     "browser": true,
     "amd": true,
-    "node": true
+    "node": true,
+    "es6": true
   }
 }
