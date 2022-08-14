@@ -1,4 +1,5 @@
 import {
+  Business,
   // Billing,
   // Business,
   // CardDeal,
@@ -32,6 +33,7 @@ function App() {
       <div className={`bg-primary ${s.paddingX} ${s.flexStart}`}>
         <div className={`${s.boxWidth}`}>
           <Stats />
+          <Business />
         </div>
       </div>
     </div>

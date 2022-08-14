@@ -1,5 +1,5 @@
 // import Billing from "./Billing/Billing";
-// import Business from "./Business/Business";
+import Business from "./Business/Business";
 // import CardDeal from "./CardDeal/CardDeal";
 // import Clients from "./Clients/Clients";
 // import CTA from "./CTA/CTA";
@@ -11,7 +11,7 @@ import Stats from "./Stats/Stats";
 
 export {
   // Billing,
-  // Business,
+  Business,
   // CardDeal,
   // Clients,
   // CTA,
