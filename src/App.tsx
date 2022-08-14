@@ -1,6 +1,6 @@
 import {
   Business,
-  // Billing,
+  Billing,
   // Business,
   // CardDeal,
   // Clients,
@@ -34,6 +34,7 @@ function App() {
         <div className={`${s.boxWidth}`}>
           <Stats />
           <Business />
+          <Billing />
         </div>
       </div>
     </div>

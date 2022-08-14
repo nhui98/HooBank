@@ -1,4 +1,4 @@
-// import Billing from "./Billing/Billing";
+import Billing from "./Billing/Billing";
 import Business from "./Business/Business";
 // import CardDeal from "./CardDeal/CardDeal";
 // import Clients from "./Clients/Clients";
@@ -10,7 +10,7 @@ import Stats from "./Stats/Stats";
 // import Testimonials from "./Testimonials/Testimonials";
 
 export {
-  // Billing,
+  Billing,
   Business,
   // CardDeal,
   // Clients,
