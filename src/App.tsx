@@ -1,15 +1,14 @@
 import {
   Business,
   Billing,
-  // Business,
   CardDeal,
-  // Clients,
+  Clients,
   // CTA,
   // Footer,
   Hero,
   Navbar,
   Stats,
-  // Testimonials,
+  Testimonials,
 } from "./components";
 
 import s from "./style";
@@ -36,6 +35,8 @@ function App() {
           <Business />
           <Billing />
           <CardDeal />
+          <Testimonials />
+          <Clients />
         </div>
       </div>
     </div>
