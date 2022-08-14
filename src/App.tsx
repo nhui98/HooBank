@@ -2,7 +2,7 @@ import {
   Business,
   Billing,
   // Business,
-  // CardDeal,
+  CardDeal,
   // Clients,
   // CTA,
   // Footer,
@@ -35,6 +35,7 @@ function App() {
           <Stats />
           <Business />
           <Billing />
+          <CardDeal />
         </div>
       </div>
     </div>

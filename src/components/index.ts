@@ -1,6 +1,6 @@
 import Billing from "./Billing/Billing";
 import Business from "./Business/Business";
-// import CardDeal from "./CardDeal/CardDeal";
+import CardDeal from "./CardDeal/CardDeal";
 // import Clients from "./Clients/Clients";
 // import CTA from "./CTA/CTA";
 // import Footer from "./Footer/Footer";
@@ -12,7 +12,7 @@ import Stats from "./Stats/Stats";
 export {
   Billing,
   Business,
-  // CardDeal,
+  CardDeal,
   // Clients,
   // CTA,
   // Footer,
