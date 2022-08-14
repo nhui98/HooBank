@@ -6,7 +6,7 @@
 // import Footer from "./Footer/Footer";
 import Hero from "./Hero/Hero";
 import Navbar from "./Navbar/Navbar";
-// import Stats from "./Stats/Stats";
+import Stats from "./Stats/Stats";
 // import Testimonials from "./Testimonials/Testimonials";
 
 export {
@@ -18,6 +18,6 @@ export {
   // Footer,
   Hero,
   Navbar,
-  // Stats,
+  Stats,
   // Testimonials,
 };

@@ -7,7 +7,7 @@ import {
   // Footer,
   Hero,
   Navbar,
-  // Stats,
+  Stats,
   // Testimonials,
 } from "./components";
 
@@ -30,7 +30,9 @@ function App() {
       </div>
       {/* hero */}
       <div className={`bg-primary ${s.paddingX} ${s.flexStart}`}>
-        <div className={`${s.boxWidth}`}></div>
+        <div className={`${s.boxWidth}`}>
+          <Stats />
+        </div>
       </div>
     </div>
   );
