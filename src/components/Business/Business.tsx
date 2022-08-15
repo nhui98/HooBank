@@ -10,7 +10,7 @@ interface FeatureCardProps {
   index: number;
 }
 
-const FeatureCard = ({ id, content, icon, title, index }: FeatureCardProps) => (
+const FeatureCard = ({ content, icon, title, index }: FeatureCardProps) => (
   <div
     className={`flex flex-row p-6 rounded-2xl ${
       index !== features.length - 1 ? "mb-6" : "mb-0"
