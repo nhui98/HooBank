@@ -3,7 +3,7 @@ import {
   Billing,
   CardDeal,
   Clients,
-  // CTA,
+  CallToAcion,
   // Footer,
   Hero,
   Navbar,
@@ -37,6 +37,7 @@ function App() {
           <CardDeal />
           <Testimonials />
           <Clients />
+          <CallToAcion />
         </div>
       </div>
     </div>

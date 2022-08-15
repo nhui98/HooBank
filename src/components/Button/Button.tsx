@@ -1,5 +1,5 @@
 interface ButtonProps {
-  styles: string;
+  styles?: string;
 }
 
 export default function Button({ styles }: ButtonProps) {
