@@ -4,7 +4,7 @@ import {
   CardDeal,
   Clients,
   CallToAcion,
-  // Footer,
+  Footer,
   Hero,
   Navbar,
   Stats,
@@ -38,6 +38,7 @@ function App() {
           <Testimonials />
           <Clients />
           <CallToAcion />
+          <Footer />
         </div>
       </div>
     </div>
